@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+i {
+    padding: 12px 13px;
+}
+.fa-info {
+    padding: 12px 17px;
+}
+.fa-thumbtack {
+    padding: 12px 14px;
+}
+.hover {
+    opacity: 0.3;
+    transition: 500ms ease-in;
+}
