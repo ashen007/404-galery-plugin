@@ -7,15 +7,15 @@ body {
     border: none;
 }
 i {
-    padding: 12px 13px;
+    padding: 11px 12px;
 }
 .fa-info {
-    padding: 12px 17px;
+    padding: 12px 16px;
 }
 .fa-thumbtack {
-    padding: 12px 14px;
+    padding: 12px 12px;
 }
 .hover {
     opacity: 0.3;
-    transition: 500ms ease-in;
+    transition: 500ms ease-out;
 }
