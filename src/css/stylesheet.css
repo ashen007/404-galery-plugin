@@ -5,7 +5,6 @@ body {
     margin: 0px;
     padding: 0px;
     border: none;
-    background-color:#DEDAE0;
 }
 i {
     padding: 11px 12px;
@@ -13,10 +12,27 @@ i {
 .fa-info {
     padding: 12px 16px;
 }
+.fa-info:hover{
+    color: rgb(0, 80, 252);
+}
 .fa-thumbtack {
     padding: 12px 12px;
+}
+.fa-thumbtack:hover{
+    color: rgb(0, 80, 252);
+}
+
+.fas:hover{
+    color: rgb(0, 80, 252);
 }
 .hover {
     opacity: 0.3;
     transition: 500ms ease-out;
+}
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:dimgray;
+    color: rgb(243, 93, 218);
 }
