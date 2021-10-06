@@ -27,7 +27,7 @@ i {
 }
 .hover {
     opacity: 0.4;
-    transition: 500ms ease-out;
+    transition: 520ms ease-out;
 }
 .header{
     display: flex;
