@@ -26,7 +26,7 @@ i {
     color: rgb(0, 80, 252);
 }
 .hover {
-    opacity: 0.3;
+    opacity: 0.4;
     transition: 500ms ease-out;
 }
 .header{
