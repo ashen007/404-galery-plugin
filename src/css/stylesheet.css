@@ -26,8 +26,10 @@ i {
     color: rgb(0, 80, 252);
 }
 .hover {
-    opacity: 0.4;
-    transition: 520ms ease-out;
+
+    opacity: 0.5;
+    transition: 500ms ease-out;
+
 }
 .header{
     display: flex;
