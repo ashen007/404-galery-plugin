@@ -35,6 +35,6 @@ i {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color:dimgray;
+    background-color:rgb(36, 36, 36);
     color: rgb(228, 124, 241);
 }
